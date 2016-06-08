@@ -1,0 +1,19 @@
+{
+  "name": "musicmood",
+  "version": "1.0.0",
+  "description": "Customized mood-based playlists",
+  "main": "src/musicmood.js",
+  "author": "Jonathan Querubina <jotadev@me.com>",
+  "contributors": [],
+  "license": "MIT",
+  "giskard": {
+    "module": "Musicmood",
+    "created": "Tue Jun 07 2016 23:14:41 GMT-0300 (BRT)",
+    "help": {
+      "musicmood <artista> - <música>": "Responde com uma cor e um sentimento",
+      "musicmood playlist <mood>": "Responde uma playlist baseada em um sentimento",
+      "musicmood lista": "Mostra todos os meus sentimentos"
+    }
+  },
+  "dependencies": {}
+}
